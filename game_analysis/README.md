@@ -26,7 +26,7 @@
 
 
 <details close>
-<summary>Вывод (спойлеры)</summary>
+<summary>Вывод (спойлеры , более подробно см файл .ipynb)</summary>
 <br>
 
 
