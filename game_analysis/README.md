@@ -25,7 +25,7 @@
 11. Вывод
 
 
-<details open>
+<details close>
 <summary>Вывод (спойлеры)</summary>
 <br>
 
