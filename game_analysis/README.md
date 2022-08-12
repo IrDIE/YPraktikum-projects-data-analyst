@@ -26,7 +26,7 @@
 
 
 <details open>
-<summary>Выаод (спойлеры)</summary>
+<summary>Вывод (спойлеры)</summary>
 <br>
 
 
